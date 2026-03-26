@@ -1,4 +1,3 @@
-```markdown
 # 🕵️ VEXALYN AGENCY
 ### Secret Intelligence System // Level 5 Clearance
 
