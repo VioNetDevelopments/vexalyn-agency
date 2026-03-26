@@ -157,7 +157,7 @@ Project ini gue bikin **100% pakai PHP Native** (no framework ribet), jadi cocok
 
 #### 1️⃣ Download/Clone Project
 ```bash
-git clone https://github.com/Vioatmaja88/vexalyn-agency.git
+git clone https://github.com/VioNetDevelopments/vexalyn-agency.git
 cd vexalyn-agency
 ```
 
