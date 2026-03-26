@@ -84,10 +84,10 @@ Project ini gue bikin **100% pakai PHP Native** (no framework ribet), jadi cocok
 ╔═══════════════════════════════════════════════════════════╗
 ║  TIMELINE PROJECT                                         ║
 ╠═══════════════════════════════════════════════════════════╣
-║  📅 Mulai Project:     Januari 2024                       ║
-║  📅 Versi 1.0:         Maret 2024                         ║
+║  📅 Mulai Project:     Maret 2026                       ║
+║  📅 Versi 1.0:         Maret 2026                         ║
 ║  📅 Versi 2.0:         Rilis Sekarang                     ║
-║  📅 Update Berikut:    Q2 2024                            ║
+║  📅 Update Berikut:    Q2 2026                            ║
 ╚═══════════════════════════════════════════════════════════╝
 
 ╔═══════════════════════════════════════════════════════════╗
@@ -414,7 +414,7 @@ error_reporting(E_ALL);
 ║                    MIT LICENSE                            ║
 ╠═══════════════════════════════════════════════════════════╣
 ║                                                           ║
-║  Copyright (c) 2024 Vio Atmajaya Saputra / VEXALYN DEV   ║
+║  Copyright (c) 2024 Vio Atmajaya Saputra / VEXALYN DEV    ║
 ║                                                           ║
 ║  Project ini GRATIS dan OPEN SOURCE!                      ║
 ║  Bebas dipake, dimodifikasi, didistribusikan.             ║
@@ -428,7 +428,7 @@ error_reporting(E_ALL);
 ║  DILARANG keras digunakan untuk aktivitas ilegal.         ║
 ║  Segala penyalahgunaan menjadi tanggung jawab pengguna.   ║
 ║                                                           ║
-║  "With great power comes great responsibility"             ║
+║  "With great power comes great responsibility"            ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
@@ -452,24 +452,24 @@ error_reporting(E_ALL);
 
 **🔐 Channel Komunikasi**
 ```
-📧 Email:      vioatmajaya@gmail.com
-💼 Business:   business@vexalyndev.my.id
-🌐 Website:    https://vexalyndev.my.id
-💻 GitHub:     https://github.com/Vioatmaja88
-📱 WhatsApp:   0838-9898-0808
+📧 Email: vioatmajaya@gmail.com
+💼 Business: vioatmajaya@gmail.com
+🌐 Website: https://vexalyndev.my.id
+💻 GitHub: https://github.com/Vioatmaja88
+📱 WhatsApp: 0838-9898-0808
 ```
 
 **🚨 Darurat (Beneran Darurat Aja)**
 ```
 Priority Line: 0838-9898-0808
-Available:     Selama gue online 😄
+Available: Selama gue online 😄
 ```
 
 **🌐 Link Resmi**
 ```
 Website:   https://vexalyndev.my.id
 GitHub:    https://github.com/Vioatmaja88
-Portfolio: https://vexalyndev.my.id/portfolio
+Portfolio: https://vexalyndev.my.id
 ```
 
 </div>
@@ -486,9 +486,8 @@ Portfolio: https://vexalyndev.my.id/portfolio
 | **UI/UX Design** | Vio Atmajaya Saputra | 🟢 Active |
 | **Database Admin** | Vio Atmajaya Saputra | 🟢 Active |
 | **Testing** | Vio Atmajaya Saputra | 🟢 Active |
-| **Coffee Supplier** | ☕ Local Coffee Shop | 🟢 Active |
 
-> 😅 Iya gue kerjain sendiri semuanya, maklum project portfolio wkwk
+> 😅 Iya gue kerjain sendiri semuanya, maklum project gabut
 
 ### Teknologi yang Dipake
 - 🐘 **PHP 8.0+** - Backend Logic
@@ -540,7 +539,7 @@ Portfolio: https://vexalyndev.my.id/portfolio
 ║                                                           ║
 ║              Stay Secure. Stay Invisible.                 ║
 ║                                                           ║
-║         🕵️ VEXALYN AGENCY © 2024 🕵️                      ║
+║                  VEXALYN AGENCY © 2024                    ║
 ║                                                           ║
 ║              Developed by: Vio Atmajaya Saputra           ║
 ║                   VEXALYN DEVELOPER                       ║
@@ -561,8 +560,6 @@ Portfolio: https://vexalyndev.my.id/portfolio
 <div align="center">
 
 ![VEXALYN](https://img.shields.io/badge/VEXALYN-INTELLIGENCE-00ff9d?style=for-the-badge&logo=github)
-
-**Made with 🔒, ☕, and 🎵 by Vio Atmajaya Saputra**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Vioatmaja88-181717?style=for-the-badge&logo=github)](https://github.com/Vioatmaja88)
 [![Website](https://img.shields.io/badge/Website-vexalyndev.my.id-00ff9d?style=for-the-badge&logo=google-chrome)](https://vexalyndev.my.id)
